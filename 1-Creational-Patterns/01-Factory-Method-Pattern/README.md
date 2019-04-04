@@ -24,5 +24,5 @@
 
   ​	具体产品角色是创建目标，所有创建的对象都充当这个角色的某个具体类的实例。
 
-  ![工厂方法类图](img\class-graph.jpg)
+  ![工厂方法类图](https://github.com/a494456818/design-patterns-java/blob/master/1-Creational-Patterns/01-Factory-Method-Pattern/img/class-graph.jpg)
 
